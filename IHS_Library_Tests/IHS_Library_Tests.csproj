@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IHS_Library\IHS_Library.csproj" />
+    <ProjectReference Include="..\IHS_Library_Extended\IHS_Library_Extended.csproj" />
+    <ProjectReference Include="..\IHS_Library_Simple\IHS_Library_Simple.csproj" />
+  </ItemGroup>
+
+</Project>
