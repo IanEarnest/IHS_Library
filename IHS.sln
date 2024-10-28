@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHS_Library", "IHS_Library\IHS_Library.csproj", "{E4824247-5008-4EA9-9E7B-2F00ED0B9AD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IHS_Library", "IHS_Library\IHS_Library.csproj", "{E4824247-5008-4EA9-9E7B-2F00ED0B9AD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHS_Library_Simple", "IHS_Library_Simple\IHS_Library_Simple.csproj", "{AB5BEE7E-6F0F-44C4-BE68-D5A4B5ABC5F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IHS_Library_Simple", "IHS_Library_Simple\IHS_Library_Simple.csproj", "{AB5BEE7E-6F0F-44C4-BE68-D5A4B5ABC5F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHS_Library_Extended", "IHS_Library_Extended\IHS_Library_Extended.csproj", "{587F1852-FE31-461E-AF6E-456F8F0E74FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IHS_Library_Extended", "IHS_Library_Extended\IHS_Library_Extended.csproj", "{587F1852-FE31-461E-AF6E-456F8F0E74FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHS_Library_Tests", "IHS_Library_Tests\IHS_Library_Tests.csproj", "{485F95E8-BB87-467B-AD7F-610FFF7C4423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IHS_Library_Tests", "IHS_Library_Tests\IHS_Library_Tests.csproj", "{485F95E8-BB87-467B-AD7F-610FFF7C4423}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
